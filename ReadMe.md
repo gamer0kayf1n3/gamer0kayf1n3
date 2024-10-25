@@ -12,9 +12,12 @@ Working on schoolwork and a side hobby of programming
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gamer0kayf1n3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamer0kayf1n3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gamer0kayf1n3&theme=solarized-dark&no-frame=false&no-bg=true&margin-w=4)
 
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/gamer0kayf1n3?theme=light&font=Lexend%20Deca&ext=heatmap)
 ---
 [![](https://visitcount.itsvg.in/api?id=gamer0kayf1n3&icon=1&color=7)](https://visitcount.itsvg.in)
 
