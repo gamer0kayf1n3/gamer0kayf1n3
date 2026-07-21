@@ -22,6 +22,8 @@ jobs:
           plugin_introduction: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile # not all for now, screw you github sunset api changes
+          plugin_activity_types: PushEvent, PullRequestEvent, IssuesEvent, IssueCommentEvent, CreateEvent # not all for now
           plugin_calendar: yes
           plugin_calendar_limit: 0
           plugin_activity: yes
@@ -31,7 +33,5 @@ jobs:
           plugin_code_load: 400
           plugin_code_days: 365
           plugin_code_languages: javascript, typescript, python, html, css, java, astro, cpp
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # removed habits for now
           config_timezone: Asia/Manila
