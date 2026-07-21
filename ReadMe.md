@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 # 💫 About Me:
 Working on schoolwork and a side hobby of programming
 
