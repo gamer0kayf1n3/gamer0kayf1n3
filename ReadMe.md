@@ -1,5 +1,5 @@
-<img align="left" width="400" src="https://github.com/gamer0kayf1n3/gamer0kayf1n3/raw/main/metrics-left.svg" />
-<img align="left" width="400" src="https://github.com/gamer0kayf1n3/gamer0kayf1n3/raw/main/metrics-right.svg" />
+<img width="400" src="https://github.com/gamer0kayf1n3/gamer0kayf1n3/raw/main/metrics-left.svg" />
+<img width="400" src="https://github.com/gamer0kayf1n3/gamer0kayf1n3/raw/main/metrics-right.svg" />
 
 <img width="100%" height="1" alt="" src="https://github.com/gamer0kayf1n3/gamer0kayf1n3/raw/main/spacer.svg">
 
