@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/gamer0kayf1n3/gamer0kayf1n3/raw/main/metrics-left.svg" width="49%" />
 <img align="right" src="https://github.com/gamer0kayf1n3/gamer0kayf1n3/raw/main/metrics-right.svg" width="49%" />
-
+<br clear="both" />
 # 💫 About Me:
 Working on schoolwork and a side hobby of programming
 
